@@ -3,7 +3,7 @@ Includes some excellent programs
 # 🏥 小型诊所项目
 
 ## 📌 项目介绍
-这是一个关于XXX的项目（你可以随便先写）
+这是一个关于XXX的项目
 
 ## 🎓 About Me
 深圳技术大学  
