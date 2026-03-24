@@ -13,8 +13,8 @@ from cozepy import COZE_CN_BASE_URL
 from cozepy import Coze, TokenAuth, Message, ChatEventType, MessageContentType
 
 # ===================== 核心配置（重点：多智能体配置区，后续加新智能体只需改这里） =====================
-COZE_AUTH_TOKEN = "sat_6rWULtG7OpQDOeufF9HSKpDmRKxORGyOoGWLNyIfket86s0bGYRpko9hzuHqHhiL"# 身份认证令牌
-USER_ID = "test_multi_image_user"  # 用户id
+COZE_AUTH_TOKEN = ""# 身份认证令牌
+USER_ID = ""  # 用户id
 INPUT_FOLDER = "input_images"  # 原始图片文件夹
 PREPROCESS_FOLDER = "preprocessed_images"  # 预处理图片文件夹
 OUTPUT_FOLDER = "processed_images"  # 处理后效果图文件夹
