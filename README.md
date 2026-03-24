@@ -1,19 +1,18 @@
 # small-practice
 Includes some excellent programs
-# 🏥 小型诊所项目
+# 🤖 Coze智能体图像处理项目
 
 ## 📌 项目介绍
-这是一个关于XXX的项目
+这是一个基于Python的图像处理工具，支持XXX功能
 
-## 🎓 About Me
-深圳技术大学  
-工业设计 + 人工智能
+## 🚀 功能
+- 图像预处理
+- 自动分类
+- 智能处理
 
-## 🛠 技能
+## 🛠 技术栈
 - Python
-- UI设计
-- AI基础
+- Flask
+- AI接口（Coze）
 
-## 🚀 计划
-- [ ] 完成第一个Python程序
-- [ ] 上传设计作品
+## 📷 示例
